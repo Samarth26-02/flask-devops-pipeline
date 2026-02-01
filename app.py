@@ -1,3 +1,5 @@
+#this is app.py file which is created for pipeline purpose.
+#import Flask and jsonify from flask class
 from flask import Flask, jsonify
 
 app = Flask(__name__)
